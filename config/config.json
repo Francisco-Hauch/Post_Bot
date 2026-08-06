@@ -1,0 +1,20 @@
+{
+  "source_repo": "Morbidmango873/Clip_Bot",
+  "shorts_per_run": 3,
+  "releases_to_scan": 3,
+  "max_duration_seconds": 60,
+  "min_duration_seconds": 5,
+  "privacy_status": "public",
+  "category_id": "20",
+  "made_for_kids": false,
+  "title_template": "{title} | {streamer} #shorts",
+  "description_template": "{title}\n\nClipe do canal do(a) {streamer} na Twitch: https://twitch.tv/{streamer}\n\n#shorts #twitch #clipes #{streamer_tag} #gaming",
+  "extra_tags": [
+    "shorts",
+    "twitch",
+    "clipes",
+    "gaming",
+    "twitch clips",
+    "melhores momentos"
+  ]
+}
