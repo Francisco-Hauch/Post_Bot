@@ -1,7 +1,7 @@
 # Bot de Shorts do YouTube
 
 Pega os clipes `.mp4` publicados nas releases do
-[Clip_Bot](https://github.com/Morbidmango873/Clip_Bot), converte para o formato
+[Clip_Bot](https://github.com/Francisco-Hauch/Clip_Bot), converte para o formato
 vertical 9:16 e publica automaticamente como Shorts no YouTube — de graça, via
 GitHub Actions.
 
